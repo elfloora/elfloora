@@ -1,11 +1,13 @@
 <h1 align="center">Hi there 👋 I'm Elfloora</h1>
 <h3 align="center">Visionary Software Engineer</h3>
 <p align="center"><em>Building portals, not apps.</em></p>
+
 <br>
 ## About Me
 I'm an iOS Engineer exploring the intersection of **Artificial Intelligence**, **Cognitive Systems**, and **Human Experience**.
 I enjoy designing products that don't just solve problems — they reshape the way people think, learn, and grow.
 <br>
+
 ## Current Focus
 - 🍎 Swift & SwiftUI
 - 🤖 Agentic AI Systems
@@ -13,6 +15,7 @@ I enjoy designing products that don't just solve problems — they reshape the w
 - ⚡ Human-Centered Product Design
 - 🌱 Conscious Technology
 <br>
+
 ## Building
 🟣 **Presence**
 > A 70-day awareness companion.
@@ -21,6 +24,7 @@ I enjoy designing products that don't just solve problems — they reshape the w
 🔵 **Vajra AI**
 > AI infrastructure for conscious software.
 <br>
+
 ## Tech
 <p>
   <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white" alt="Swift"/>
@@ -41,5 +45,4 @@ I enjoy designing products that don't just solve problems — they reshape the w
 > Technology should expand human consciousness,
 > not compete with it.
 <br>
-
 <h3 align="center">Let's build the future.</h3>
