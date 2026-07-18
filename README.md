@@ -3,40 +3,31 @@
 <p align="center"><em>Building portals, not apps.</em></p>
 
 <br>
-
 ## About Me
 
 I'm an iOS Engineer exploring the intersection of **Artificial Intelligence**, **Cognitive Systems**, and **Human Experience**.
-
 I enjoy designing products that don't just solve problems — they reshape the way people think, learn, and grow.
-
 <br>
 
 ## Current Focus
-
 - 🍎 Swift & SwiftUI
 - 🤖 Agentic AI Systems
 - 🧠 Cognitive Computing
 - ⚡ Human-Centered Product Design
 - 🌱 Conscious Technology
-
 <br>
 
 ## Building
 
 🟣 **Presence**
 > A 70-day awareness companion.
-
 🟡 **SOURCECODE**
 > Neuroplasticity protocols for human intelligence.
-
 🔵 **Vajra AI**
 > AI infrastructure for conscious software.
-
 <br>
 
 ## Tech
-
 <p>
   <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white" alt="Swift"/>
   <img src="https://img.shields.io/badge/SwiftUI-0066CC?style=flat&logo=swift&logoColor=white" alt="SwiftUI"/>
@@ -50,14 +41,11 @@ I enjoy designing products that don't just solve problems — they reshape the w
   <img src="https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white" alt="Claude"/>
   <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white" alt="Gemini"/>
 </p>
-
 <br>
 
 ## Philosophy
-
 > Technology should expand human consciousness,
 > not compete with it.
-
 <br>
 
 <h3 align="center">Let's build the future.</h3>
