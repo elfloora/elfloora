@@ -14,8 +14,8 @@ I enjoy designing products that don't just solve problems — they reshape the w
 - 🌱 Conscious Technology
 
 ## Building
-🟣 **Presence** — A 70-day awareness companion.
-🟡 **SOURCECODE** — Neuroplasticity protocols for human intelligence.
+🟣 **Presence** — A 70-day awareness companion.<br>
+🟡 **SOURCECODE** — Neuroplasticity protocols for human intelligence.<br>
 🔵 **Vajra AI** — AI infrastructure for conscious software.
 
 ## Tech
