@@ -1,6 +1,4 @@
 <h1 align="center">Hi there 👋 I'm Elfloora</h1>
-<h3 align="center">Visionary Software Engineer</h3>
-<p align="center"><em>Building portals, not apps.</em></p>
 
 ## About Me
 I'm an iOS Engineer exploring the intersection of **Artificial Intelligence**, **Cognitive Systems**, and **Human Experience**.
