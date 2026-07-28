@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋 I'm Elfloora</h1>
-I'm an iOS Engineer exploring the intersection of **Artificial Intelligence**, **Cognitive Systems**, and **Human Experience**.
+I'm an iOS Engineer exploring the intersection of *Artificial Intelligence*, *Cognitive Systems*, and *Human Experience*.
 I enjoy designing products that don't just solve problems — they reshape the way people think, learn, and grow.
 
 ## Current Focus
